@@ -1,4 +1,4 @@
-### Colab
+### Colab by me
 
 (Last tested - 2024 Apr 18 by [kyawkaung](https://github.com/monsterhunters))
 
