@@ -3,6 +3,7 @@
 
 | Colab | Info | Version
 | --- | --- | ---
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monsterhunters/Lora-Training-GUI/blob/main/lora_training_gui_v4_2420.ipynb) | Update to V4 ver24.2.0 | Based on https://github.com/bmaltais/kohya_ss.git sd3-flux.1 branch
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monsterhunters/CodeUI/blob/master/lora_training_gui_v4_2417.ipynb) | Update to V4 ver24.1.7 | Based on https://github.com/bmaltais/kohya_ss.git V24.1.7
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monsterhunters/Lora-Training-GUI/blob/main/Lora_Training_GUI_V3_2417.ipynb) | Update to V3 ver24.1.7 | Based on https://github.com/bmaltais/kohya_ss.git V24.1.7
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/monsterhunters/Lora-Training-GUI/blob/main/Lora_Training_GUI_V2_2416.ipynb) | Update to V2 ver24.1.6 | Based on https://github.com/bmaltais/kohya_ss.git V24.1.6
